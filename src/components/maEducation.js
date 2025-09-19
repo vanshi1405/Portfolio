@@ -10,7 +10,7 @@ function MaEducation() {
         </div> */}
         <ul className="list timeline">
             <li className="timeline-item">Government Engineering College -  August 2020- May 2023
-            <p>Bachelor of Engineering in Computer Engineering - (CGPA: 8.01/10)</p>
+            <p className='education-subtitle'>Bachelor of Engineering in Computer Engineering - (CGPA: 8.01/10)</p>
             </li>
             
           </ul>
