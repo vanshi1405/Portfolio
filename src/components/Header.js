@@ -30,7 +30,7 @@ function Header() {
       <div className="container ">
         
       {/* <div class="logo"> */}
-            <img src="profile.jpeg" alt="Vanshita" class="logo-image"/>
+            {/* <img src="profile.jpeg" alt="Vanshita" class="logo-image"/> */}
       {/* </div> */}
         <h1 className="brand">Vanshita Shah</h1>
         <nav className="nav">
